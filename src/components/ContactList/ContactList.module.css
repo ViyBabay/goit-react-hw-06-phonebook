@@ -1,0 +1,9 @@
+.list {
+  display: flex;
+  flex-direction: row;
+}
+
+.delBtn {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
